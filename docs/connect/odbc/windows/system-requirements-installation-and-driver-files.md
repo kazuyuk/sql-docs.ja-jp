@@ -46,6 +46,7 @@ ms.locfileid: "71250951"
 - Windows Server 2008 R2
 - Windows Server 2012
 - Windows Server 2012 R2
+- Windows Server 2016
 - Windows Vista SP2 &nbsp; " _(ODBC Driver 11 のみ。)_ "
 - Windows 7
 - Windows 8
