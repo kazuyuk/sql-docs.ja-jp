@@ -68,7 +68,7 @@ ms.locfileid: "71708710"
 
 ### <a name="system-requirements"></a>システム要件
 
-Windows 10、Windows 7、Windows 8、Windows 8.1、Windows Server 2008、Windows Server 2008 R2、Windows Server 2008 R2 SP1、Windows Server 2012、Windows Server 2012 R2
+Windows 10、Windows 7、Windows 8、Windows 8.1、Windows Server 2008、Windows Server 2008 R2、Windows Server 2008 R2 SP1、Windows Server 2012、Windows Server 2012 R2、Windows Server 2016
 
 このコンポーネントには、SQL Server 用に[Windows インストーラー 4.5](https://www.microsoft.com/download/details.aspx?id=8483)と[Microsoft ODBC Driver 17.3 の](https://www.microsoft.com/download/details.aspx?id=56567)両方が必要です。
 
